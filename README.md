@@ -1,32 +1,32 @@
 <div align="center">
   <br>
   <img alt="OpenSauced" src="https://github.com/open-sauced/assets/blob/main/logos/logo-on-dark.png">
-  <h1>🍕 The Open Source Education Path with OpenSauced 🍕</h1>
-  <strong>Welcome to OpenSauced's Intro Repository!</strong>
+  <h1>🍕 O Caminho da Educação Open Source com OpenSauced 🍕</h1>
+  <strong>Bem-vindo ao Repositório de Introdução da OpenSauced!</strong>
 </div>
 
 <br>
 
-This repository is the home of OpenSauced courses for people who want to learn to contribute to open source projects and for people who want to become project maintainers.
+Este repositório é a base dos cursos da OpenSauced para pessoas que desejam aprender a contribuir com projetos open source e para aqueles que querem se tornar mantenedores de projetos.
 
-Head over to the **[Intro to Open Source Course](./docs/intro-to-oss/README.md)** or **[Becoming A Maintainer Course](./docs/becoming-a-maintainer/README.md)** on GitHub to start learning! Alternatively, visit our [Open Source Education Path with OpenSauced website](https://opensauced.pizza/learn/#/).
+Para começar a aprender, vá para o curso **[Introdução ao Open Source](./docs/intro-to-oss/README.md)** ou **[Tornando-se um Mantenedor](./docs/becoming-a-maintainer/README.md)** no GitHub para começar a aprender! Alternativamente, visite nosso website [Caminho da Educação Open Source com OpenSauced](https://opensauced.pizza/learn/#/).
 
-Check out the [Community Translations](./contributing/community-translations.md) for translations maintained by our community!
+Confira [Traduções da Comunidade](./contributing/community-translations.md) para traduções mantidas pela nossa comunidade!
 
-## **🤝 Contributing**
+## **🤝 Contribuindo**
 
-We encourage you to contribute to OpenSauced! All contributors are required to abide by our [Code of Conduct](https://github.com/open-sauced/.github/blob/main/CODE_OF_CONDUCT.md).
+Nós encorajamos você a contribuir para a OpenSauced! Todos os contribuidores são obrigados a obedecer ao nosso [Código de Conduta](https://github.com/open-sauced/.github/blob/main/CODE_OF_CONDUCT.md).
 
-- For information on how to contribute to the intro repository, check out the [Contributing Guidelines](./contributing/CONTRIBUTING.md).
+- Para informações sobre como contribuir para o repositório de introção, confira as [Diretrizes de Contribuição](./contributing/CONTRIBUTING.md).
 
-- To translate the courses in our Open Source Education Path, check out our [🌐 i18n Guidelines](./contributing/i18n-guidelines.md).
+- Para traduzir os cursos em nosso Caminho de Educação Open Source, confira nossas [🌐 Diretrizes i18n](./contributing/i18n-guidelines.md).
 
-- For information on how to contribute to this translations repository, check out our [Translations Contributing Guidelines](LINK-TO-YOUR-FORKED-REPOSITORY-CONTRIBUTING-FILE).
+- Para informações sobre como contribuir para este repositório de traduções, confira nossas [Diretrizes de Contribuição de Traduções](https://github.com/venelouis/intro/blob/pt-translations/contributing/contributing-pt.md).
 
-## **🍕 Community**
+## **🍕 Comunindade**
 
-Do you have questions or need help? Join our [Community](https://github.com/orgs/open-sauced/discussions).
+Você tem dúvidas ou precisa de ajuda? Junte-se à nossa [Comunidade](https://github.com/orgs/open-sauced/discussions).
 
-## **⚖️ LICENSE**
+## **⚖️ LICENÇA**
 
-[![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+[![Licença Creative Commons](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
