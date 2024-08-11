@@ -1,0 +1,1 @@
+Apenas faça um pull-request de maneira sensata, eu verifico e se estiver tudo ok, eu aprovo. Se não estiver tudo ok, eu comento o que não está ok e então você poderá revisar e para atualizar o pr.
