@@ -21,6 +21,8 @@ We encourage you to contribute to OpenSauced! All contributors are required to a
 
 - To translate the courses in our Open Source Education Path, check out our [🌐 i18n Guidelines](./contributing/i18n-guidelines.md).
 
+- For information on how to contribute to this translations repository, check out our [Translations Contributing Guidelines](LINK-TO-YOUR-FORKED-REPOSITORY-CONTRIBUTING-FILE).
+
 ## **🍕 Community**
 
 Do you have questions or need help? Join our [Community](https://github.com/orgs/open-sauced/discussions).
